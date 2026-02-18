@@ -7,7 +7,7 @@ layers:
   - {t: '3', s: '#'}
   - {t: '4', s: $}
   - {t: '5', s: '%'}
-  - $$mdi:arrow-up-bold$$
+  - $$mdi:mouse-left-click-outline$$
   - {t: '6', s: ^}
   - {t: '7', s: '&'}
   - {t: '8', s: '*'}
@@ -20,20 +20,20 @@ layers:
   - E
   - R
   - T
-  - $$mdi:arrow-down-bold$$
+  - $$mdi:mouse-right-click-outline$$
   - Y
   - U
   - I
   - O
   - P
-  - {t: \, s: '|'}
+  - {t: '-', s: _}
   - $$mdi:apple-keyboard-shift$$
   - A
   - S
   - D
   - F
   - G
-  - $$mdi:arrow-left-bold$$
+  - '&mkp MB4'
   - H
   - J
   - K
@@ -46,7 +46,7 @@ layers:
   - C
   - V
   - B
-  - $$mdi:arrow-right-bold$$
+  - '&mkp MB5'
   - N
   - M
   - {t: ',', s: <}
