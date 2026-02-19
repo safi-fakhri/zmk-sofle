@@ -7,7 +7,7 @@ layers:
   - {t: '3', s: '#'}
   - {t: '4', s: $}
   - {t: '5', s: '%'}
-  - $$mdi:mouse-left-click-outline$$
+  - $$mdi:arrow-up-bold$$
   - {t: '6', s: ^}
   - {t: '7', s: '&'}
   - {t: '8', s: '*'}
@@ -20,20 +20,20 @@ layers:
   - E
   - R
   - T
-  - $$mdi:mouse-right-click-outline$$
+  - $$mdi:arrow-down-bold$$
   - Y
   - U
   - I
   - O
   - P
-  - {t: '-', s: _}
+  - $$mdi:apple-keyboard-caps$$
   - $$mdi:apple-keyboard-shift$$
   - A
   - S
   - D
   - F
   - G
-  - '&mkp MB4'
+  - $$mdi:arrow-left-bold$$
   - H
   - J
   - K
@@ -46,7 +46,7 @@ layers:
   - C
   - V
   - B
-  - '&mkp MB5'
+  - $$mdi:arrow-right-bold$$
   - N
   - M
   - {t: ',', s: <}
@@ -61,7 +61,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '=', s: +}
+  - {t: '-', s: _}
   - layer2
   - $$mdi:backspace-reverse-outline$$
   - HOME
